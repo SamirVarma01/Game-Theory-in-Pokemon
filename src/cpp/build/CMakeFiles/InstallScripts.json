@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Applications/VSCode/MLProjs/registeel/src/cpp/build/cmake_install.cmake",
+		"/Applications/VSCode/MLProjs/registeel/src/cpp/build/pybind11/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3296FC40-EC6C-4A5B-92B4-6E487D5EA507}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{51ECA19A-9C1B-41BE-8B34-1074405D270E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonDashboard", "src\csharp\PokemonDashboard\PokemonDashboard.csproj", "{6BF21656-7618-4C8C-8712-F6661E2F3AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF21656-7618-4C8C-8712-F6661E2F3AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF21656-7618-4C8C-8712-F6661E2F3AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF21656-7618-4C8C-8712-F6661E2F3AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF21656-7618-4C8C-8712-F6661E2F3AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51ECA19A-9C1B-41BE-8B34-1074405D270E} = {3296FC40-EC6C-4A5B-92B4-6E487D5EA507}
+		{6BF21656-7618-4C8C-8712-F6661E2F3AB6} = {51ECA19A-9C1B-41BE-8B34-1074405D270E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7DDD3E-8C6B-4042-A2BA-C87AA56DAAD7}
+	EndGlobalSection
+EndGlobal

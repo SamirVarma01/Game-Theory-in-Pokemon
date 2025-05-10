@@ -1,0 +1,82 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:PokemonDashboard.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="PokemonDashboard.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="PokemonDashboard"
+        Width="1200" Height="800">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <Grid RowDefinitions="Auto,*">
+        <!-- Header -->
+        <Border Grid.Row="0" Background="#2C3E50" Padding="10">
+            <TextBlock Text="Pokemon Battle Dashboard" 
+                      Foreground="White" 
+                      FontSize="24" 
+                      HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Main Content -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Battle Log Section -->
+            <Border Grid.Column="0" 
+                    BorderBrush="Gray" 
+                    BorderThickness="1" 
+                    Margin="0,0,5,0" 
+                    Padding="10">
+                <StackPanel>
+                    <TextBlock Text="Battle Log" 
+                             FontSize="18" 
+                             Margin="0,0,0,10"/>
+                    <ScrollViewer>
+                        <TextBlock Text="{Binding BattleLog}" 
+                                 TextWrapping="Wrap"/>
+                    </ScrollViewer>
+                </StackPanel>
+            </Border>
+
+            <!-- Stats Section -->
+            <Border Grid.Column="1" 
+                    BorderBrush="Gray" 
+                    BorderThickness="1" 
+                    Margin="5,0,0,0" 
+                    Padding="10">
+                <StackPanel>
+                    <TextBlock Text="Battle Statistics" 
+                             FontSize="18" 
+                             Margin="0,0,0,10"/>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" 
+                                 Text="{Binding Wins, StringFormat='Wins: {0}'}" 
+                                 Margin="0,0,0,5"/>
+                        <TextBlock Grid.Row="1" 
+                                 Text="{Binding Losses, StringFormat='Losses: {0}'}" 
+                                 Margin="0,0,0,5"/>
+                        <TextBlock Grid.Row="2" 
+                                 Text="{Binding WinRate, StringFormat='Win Rate: {0:F1}%'}" 
+                                 Margin="0,0,0,5"/>
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>
