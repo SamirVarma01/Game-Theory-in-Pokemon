@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-377",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:42.554188",
+  "our_team": {
+    "p1: Araquanid": {
+      "species": "araquanid",
+      "types": [
+        "WATER (pokemon type) object",
+        "BUG (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stickyweb": {
+          "id": "stickyweb",
+          "type": "BUG (pokemon type) object",
+          "base_power": 0,
+          "category": 

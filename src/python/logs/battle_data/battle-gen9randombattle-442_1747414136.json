@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-442",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:56.422636",
+  "our_team": {
+    "p1: Sandslash": {
+      "species": "sandslash",
+      "types": [
+        "GROUND (pokemon type) object"
+      ],
+      "level": 89,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "knockoff": {
+          "id": "knockoff",
+          "type": "DARK (pokemon type) object",
+          "base_power": 65,
+          "category": 

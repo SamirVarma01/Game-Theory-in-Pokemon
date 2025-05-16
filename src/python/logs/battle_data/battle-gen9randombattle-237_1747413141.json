@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-237",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:21.104675",
+  "our_team": {
+    "p1: Meowscarada": {
+      "species": "meowscarada",
+      "types": [
+        "GRASS (pokemon type) object",
+        "DARK (pokemon type) object"
+      ],
+      "level": 78,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "flowertrick": {
+          "id": "flowertrick",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 70,
+          "category": 

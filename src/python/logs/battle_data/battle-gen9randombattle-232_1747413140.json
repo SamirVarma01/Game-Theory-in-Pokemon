@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-232",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:20.380306",
+  "our_team": {
+    "p1: Wyrdeer": {
+      "species": "wyrdeer",
+      "types": [
+        "NORMAL (pokemon type) object",
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 87,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "earthquake": {
+          "id": "earthquake",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 100,
+          "category": 

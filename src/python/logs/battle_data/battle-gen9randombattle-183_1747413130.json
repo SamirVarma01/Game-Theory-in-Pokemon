@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-183",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:10.336738",
+  "our_team": {
+    "p1: Archaludon": {
+      "species": "archaludon",
+      "types": [
+        "STEEL (pokemon type) object",
+        "DRAGON (pokemon type) object"
+      ],
+      "level": 78,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "bodypress": {
+          "id": "bodypress",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 80,
+          "category": 

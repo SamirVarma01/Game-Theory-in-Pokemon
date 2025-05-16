@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-347",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:17.997885",
+  "our_team": {
+    "p1: Pyroar": {
+      "species": "pyroar",
+      "types": [
+        "FIRE (pokemon type) object",
+        "NORMAL (pokemon type) object"
+      ],
+      "level": 88,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "hypervoice": {
+          "id": "hypervoice",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 90,
+          "category": 

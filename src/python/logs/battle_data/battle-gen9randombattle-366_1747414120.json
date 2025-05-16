@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-366",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:40.441338",
+  "our_team": {
+    "p1: Dugtrio": {
+      "species": "dugtrio",
+      "types": [
+        "GROUND (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "swordsdance": {
+          "id": "swordsdance",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

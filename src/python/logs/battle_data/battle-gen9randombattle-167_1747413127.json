@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-167",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:07.682400",
+  "our_team": {
+    "p1: Eelektross": {
+      "species": "eelektross",
+      "types": [
+        "ELECTRIC (pokemon type) object"
+      ],
+      "level": 87,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "drainpunch": {
+          "id": "drainpunch",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 75,
+          "category": 

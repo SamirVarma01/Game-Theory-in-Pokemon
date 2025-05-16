@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-443",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:56.595445",
+  "our_team": {
+    "p1: Sylveon": {
+      "species": "sylveon",
+      "types": [
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "wish": {
+          "id": "wish",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

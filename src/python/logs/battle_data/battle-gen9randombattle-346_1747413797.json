@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-346",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:17.796023",
+  "our_team": {
+    "p1: Leafeon": {
+      "species": "leafeon",
+      "types": [
+        "GRASS (pokemon type) object"
+      ],
+      "level": 88,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "doubleedge": {
+          "id": "doubleedge",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 120,
+          "category": 

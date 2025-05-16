@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-259",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:25.752164",
+  "our_team": {
+    "p1: Shaymin": {
+      "species": "shaymin",
+      "types": [
+        "GRASS (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "airslash": {
+          "id": "airslash",
+          "type": "FLYING (pokemon type) object",
+          "base_power": 75,
+          "category": 

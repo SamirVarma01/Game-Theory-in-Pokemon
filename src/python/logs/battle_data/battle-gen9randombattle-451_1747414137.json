@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-451",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:57.837803",
+  "our_team": {
+    "p1: Hatterene": {
+      "species": "hatterene",
+      "types": [
+        "PSYCHIC (pokemon type) object",
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "mysticalfire": {
+          "id": "mysticalfire",
+          "type": "FIRE (pokemon type) object",
+          "base_power": 75,
+          "category": 

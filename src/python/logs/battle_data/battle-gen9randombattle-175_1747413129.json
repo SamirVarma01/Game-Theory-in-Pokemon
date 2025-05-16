@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-175",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:08.962966",
+  "our_team": {
+    "p1: Cloyster": {
+      "species": "cloyster",
+      "types": [
+        "WATER (pokemon type) object",
+        "ICE (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "hydropump": {
+          "id": "hydropump",
+          "type": "WATER (pokemon type) object",
+          "base_power": 110,
+          "category": 

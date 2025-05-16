@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-174",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:08.876552",
+  "our_team": {
+    "p1: Misdreavus": {
+      "species": "misdreavus",
+      "types": [
+        "GHOST (pokemon type) object"
+      ],
+      "level": 90,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "willowisp": {
+          "id": "willowisp",
+          "type": "FIRE (pokemon type) object",
+          "base_power": 0,
+          "category": 

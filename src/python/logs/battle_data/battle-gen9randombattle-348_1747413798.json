@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-348",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:18.560296",
+  "our_team": {
+    "p1: Necrozma": {
+      "species": "necrozma",
+      "types": [
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "photongeyser": {
+          "id": "photongeyser",
+          "type": "PSYCHIC (pokemon type) object",
+          "base_power": 100,
+          "category": 

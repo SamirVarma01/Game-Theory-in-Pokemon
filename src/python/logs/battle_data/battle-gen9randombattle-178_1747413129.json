@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-178",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:09.476571",
+  "our_team": {
+    "p1: Blissey": {
+      "species": "blissey",
+      "types": [
+        "NORMAL (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stealthrock": {
+          "id": "stealthrock",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 0,
+          "category": 

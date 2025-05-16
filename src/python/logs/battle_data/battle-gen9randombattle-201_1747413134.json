@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-201",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:14.077337",
+  "our_team": {
+    "p1: Toucannon": {
+      "species": "toucannon",
+      "types": [
+        "NORMAL (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 88,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "uturn": {
+          "id": "uturn",
+          "type": "BUG (pokemon type) object",
+          "base_power": 70,
+          "category": 

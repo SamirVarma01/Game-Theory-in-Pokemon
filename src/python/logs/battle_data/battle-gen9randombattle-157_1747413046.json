@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-157",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:30:46.333071",
+  "our_team": {
+    "p1: Baxcalibur": {
+      "species": "baxcalibur",
+      "types": [
+        "DRAGON (pokemon type) object",
+        "ICE (pokemon type) object"
+      ],
+      "level": 75,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "iciclecrash": {
+          "id": "iciclecrash",
+          "type": "ICE (pokemon type) object",
+          "base_power": 85,
+          "category": 

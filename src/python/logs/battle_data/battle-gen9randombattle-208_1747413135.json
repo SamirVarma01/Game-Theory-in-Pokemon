@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-208",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:15.001738",
+  "our_team": {
+    "p1: Hitmontop": {
+      "species": "hitmontop",
+      "types": [
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 88,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "rapidspin": {
+          "id": "rapidspin",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 50,
+          "category": 

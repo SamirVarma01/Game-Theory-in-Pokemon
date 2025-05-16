@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-353",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:19.714165",
+  "our_team": {
+    "p1: Mismagius": {
+      "species": "mismagius",
+      "types": [
+        "GHOST (pokemon type) object"
+      ],
+      "level": 86,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "shadowball": {
+          "id": "shadowball",
+          "type": "GHOST (pokemon type) object",
+          "base_power": 80,
+          "category": 

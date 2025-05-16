@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-165",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:07.204358",
+  "our_team": {
+    "p1: Crawdaunt": {
+      "species": "crawdaunt",
+      "types": [
+        "WATER (pokemon type) object",
+        "DARK (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "knockoff": {
+          "id": "knockoff",
+          "type": "DARK (pokemon type) object",
+          "base_power": 65,
+          "category": 

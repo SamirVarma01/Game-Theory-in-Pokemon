@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-161",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:30:47.238858",
+  "our_team": {
+    "p1: Dondozo": {
+      "species": "dondozo",
+      "types": [
+        "WATER (pokemon type) object"
+      ],
+      "level": 78,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "curse": {
+          "id": "curse",
+          "type": "GHOST (pokemon type) object",
+          "base_power": 0,
+          "category": 

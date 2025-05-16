@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-152",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:28:16.848506",
+  "our_team": {
+    "p1: Gholdengo": {
+      "species": "gholdengo",
+      "types": [
+        "STEEL (pokemon type) object",
+        "GHOST (pokemon type) object"
+      ],
+      "level": 77,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "focusblast": {
+          "id": "focusblast",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 120,
+          "category": 

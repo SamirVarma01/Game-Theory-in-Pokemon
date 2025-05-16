@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-290",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:06.540816",
+  "our_team": {
+    "p1: Blastoise": {
+      "species": "blastoise",
+      "types": [
+        "WATER (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "shellsmash": {
+          "id": "shellsmash",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

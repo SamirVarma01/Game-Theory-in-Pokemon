@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-266",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:02.818767",
+  "our_team": {
+    "p1: Hippowdon": {
+      "species": "hippowdon",
+      "types": [
+        "GROUND (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "slackoff": {
+          "id": "slackoff",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

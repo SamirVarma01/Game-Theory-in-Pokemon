@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-293",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:07.130654",
+  "our_team": {
+    "p1: Rayquaza": {
+      "species": "rayquaza",
+      "types": [
+        "DRAGON (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 72,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "earthquake": {
+          "id": "earthquake",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 100,
+          "category": 

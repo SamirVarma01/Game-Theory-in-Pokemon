@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-456",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:58.895527",
+  "our_team": {
+    "p1: Uxie": {
+      "species": "uxie",
+      "types": [
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 83,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "yawn": {
+          "id": "yawn",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

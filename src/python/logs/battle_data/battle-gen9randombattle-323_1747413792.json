@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-323",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:12.366044",
+  "our_team": {
+    "p1: Hypno": {
+      "species": "hypno",
+      "types": [
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 95,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "toxic": {
+          "id": "toxic",
+          "type": "POISON (pokemon type) object",
+          "base_power": 0,
+          "category": 

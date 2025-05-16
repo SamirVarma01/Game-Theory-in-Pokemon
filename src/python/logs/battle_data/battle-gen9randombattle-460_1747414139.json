@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-460",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:59.436688",
+  "our_team": {
+    "p1: Greninja": {
+      "species": "greninja",
+      "types": [
+        "WATER (pokemon type) object",
+        "DARK (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "spikes": {
+          "id": "spikes",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 0,
+          "category": 

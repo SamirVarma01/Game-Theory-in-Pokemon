@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-187",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:10.926624",
+  "our_team": {
+    "p1: Scream Tail": {
+      "species": "screamtail",
+      "types": [
+        "FAIRY (pokemon type) object",
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "protect": {
+          "id": "protect",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

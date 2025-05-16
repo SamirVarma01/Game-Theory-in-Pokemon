@@ -9,11 +9,6 @@ class OpponentModel:
     """Model to predict opponent move probabilities."""
     
     def __init__(self, model_dir="models/opponent"):
-        """Initialize the opponent model.
-        
-        Args:
-            model_dir: Directory to store trained models
-        """
         self.model_dir = model_dir
         self.models = {}  # Trained models
         self.move_encodings = {}  # Maps move IDs to indices

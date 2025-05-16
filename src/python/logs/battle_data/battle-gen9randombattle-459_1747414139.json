@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-459",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:59.268069",
+  "our_team": {
+    "p1: Dodrio": {
+      "species": "dodrio",
+      "types": [
+        "NORMAL (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 86,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "swordsdance": {
+          "id": "swordsdance",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-163",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:06.901174",
+  "our_team": {
+    "p1: Carbink": {
+      "species": "carbink",
+      "types": [
+        "ROCK (pokemon type) object",
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 90,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "irondefense": {
+          "id": "irondefense",
+          "type": "STEEL (pokemon type) object",
+          "base_power": 0,
+          "category": 

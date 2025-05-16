@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-370",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:41.054742",
+  "our_team": {
+    "p1: Spectrier": {
+      "species": "spectrier",
+      "types": [
+        "GHOST (pokemon type) object"
+      ],
+      "level": 75,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "drainingkiss": {
+          "id": "drainingkiss",
+          "type": "FAIRY (pokemon type) object",
+          "base_power": 50,
+          "category": 

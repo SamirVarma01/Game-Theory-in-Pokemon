@@ -76,9 +76,8 @@ async def main():
         # Play games
         logger.info("Starting battles...")
         try:
-            # Add timeout for battles
-            async with asyncio.timeout(600):  # 10 minutes timeout
-                await player.battle_against(random_player, n_battles=5)
+            async with asyncio.timeout(600):  
+                await player.battle_against(random_player, n_battles=100)
             logger.info("Battles completed successfully")
         except asyncio.TimeoutError:
             logger.error("Battles timed out after 10 minutes")
@@ -89,7 +88,6 @@ async def main():
             await send_update(f"Error during battles: {str(e)}")
             raise
 
-        # Send final update
         logger.info("Sending final update...")
         await send_update("Battle simulation completed!")
         logger.info("Battle simulation completed!")

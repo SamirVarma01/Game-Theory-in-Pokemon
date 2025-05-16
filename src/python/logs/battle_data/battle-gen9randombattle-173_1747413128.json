@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-173",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:08.615845",
+  "our_team": {
+    "p1: Skarmory": {
+      "species": "skarmory",
+      "types": [
+        "STEEL (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "bravebird": {
+          "id": "bravebird",
+          "type": "FLYING (pokemon type) object",
+          "base_power": 120,
+          "category": 

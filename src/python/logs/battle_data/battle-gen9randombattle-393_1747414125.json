@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-393",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:45.406496",
+  "our_team": {
+    "p1: Hippowdon": {
+      "species": "hippowdon",
+      "types": [
+        "GROUND (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stoneedge": {
+          "id": "stoneedge",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 100,
+          "category": 

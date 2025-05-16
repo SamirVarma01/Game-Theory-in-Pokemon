@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-406",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:47.812723",
+  "our_team": {
+    "p1: Gliscor": {
+      "species": "gliscor",
+      "types": [
+        "GROUND (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 76,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "earthquake": {
+          "id": "earthquake",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 100,
+          "category": 

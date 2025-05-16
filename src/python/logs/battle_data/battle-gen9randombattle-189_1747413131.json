@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-189",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:11.203170",
+  "our_team": {
+    "p1: Iron Moth": {
+      "species": "ironmoth",
+      "types": [
+        "FIRE (pokemon type) object",
+        "POISON (pokemon type) object"
+      ],
+      "level": 78,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "sludgewave": {
+          "id": "sludgewave",
+          "type": "POISON (pokemon type) object",
+          "base_power": 95,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-441",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:55.962130",
+  "our_team": {
+    "p1: Lapras": {
+      "species": "lapras",
+      "types": [
+        "WATER (pokemon type) object",
+        "ICE (pokemon type) object"
+      ],
+      "level": 87,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "earthquake": {
+          "id": "earthquake",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 100,
+          "category": 

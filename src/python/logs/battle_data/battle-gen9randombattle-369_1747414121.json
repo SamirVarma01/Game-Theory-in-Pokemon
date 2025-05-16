@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-369",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:40.936526",
+  "our_team": {
+    "p1: Pawmot": {
+      "species": "pawmot",
+      "types": [
+        "ELECTRIC (pokemon type) object",
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "doubleshock": {
+          "id": "doubleshock",
+          "type": "ELECTRIC (pokemon type) object",
+          "base_power": 120,
+          "category": 

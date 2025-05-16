@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-432",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:53.539495",
+  "our_team": {
+    "p1: Camerupt": {
+      "species": "camerupt",
+      "types": [
+        "FIRE (pokemon type) object",
+        "GROUND (pokemon type) object"
+      ],
+      "level": 91,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "earthquake": {
+          "id": "earthquake",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 100,
+          "category": 

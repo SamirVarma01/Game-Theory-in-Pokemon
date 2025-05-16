@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-192",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:12.072030",
+  "our_team": {
+    "p1: Wugtrio": {
+      "species": "wugtrio",
+      "types": [
+        "WATER (pokemon type) object"
+      ],
+      "level": 91,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "aquajet": {
+          "id": "aquajet",
+          "type": "WATER (pokemon type) object",
+          "base_power": 40,
+          "category": 

@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-277",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:04.600532",
+  "our_team": {
+    "p1: Gothitelle": {
+      "species": "gothitelle",
+      "types": [
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 90,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "psychicnoise": {
+          "id": "psychicnoise",
+          "type": "PSYCHIC (pokemon type) object",
+          "base_power": 75,
+          "category": 

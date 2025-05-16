@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-239",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:21.397871",
+  "our_team": {
+    "p1: Diancie": {
+      "species": "diancie",
+      "types": [
+        "ROCK (pokemon type) object",
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "drainingkiss": {
+          "id": "drainingkiss",
+          "type": "FAIRY (pokemon type) object",
+          "base_power": 50,
+          "category": 

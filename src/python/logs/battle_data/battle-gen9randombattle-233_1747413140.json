@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-233",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:20.517385",
+  "our_team": {
+    "p1: Rampardos": {
+      "species": "rampardos",
+      "types": [
+        "ROCK (pokemon type) object"
+      ],
+      "level": 90,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "zenheadbutt": {
+          "id": "zenheadbutt",
+          "type": "PSYCHIC (pokemon type) object",
+          "base_power": 80,
+          "category": 

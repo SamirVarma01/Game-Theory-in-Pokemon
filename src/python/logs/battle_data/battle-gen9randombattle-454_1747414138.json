@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-454",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:58.532754",
+  "our_team": {
+    "p1: Sneasler": {
+      "species": "sneasler",
+      "types": [
+        "FIGHTING (pokemon type) object",
+        "POISON (pokemon type) object"
+      ],
+      "level": 74,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "closecombat": {
+          "id": "closecombat",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 120,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-367",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:40.549297",
+  "our_team": {
+    "p1: Cobalion": {
+      "species": "cobalion",
+      "types": [
+        "STEEL (pokemon type) object",
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "taunt": {
+          "id": "taunt",
+          "type": "DARK (pokemon type) object",
+          "base_power": 0,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-153",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:28:17.339284",
+  "our_team": {
+    "p1: Venusaur": {
+      "species": "venusaur",
+      "types": [
+        "GRASS (pokemon type) object",
+        "POISON (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "synthesis": {
+          "id": "synthesis",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 0,
+          "category": 

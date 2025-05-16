@@ -46,6 +46,8 @@ A modern dashboard application built in C# that provides:
 - C++ compiler (for building C++ components)
 - Visual Studio 2022 (for C# development)
 
+Please ensure that you have the Pokemon Showdown GitHub repository (https://github.com/smogon/pokemon-showdown) cloned onto your device for hosting local servers. If you would like to test the bot on the official showdown server, you can alter the server configuration accordingly. However, it is recommended to train on a local server.
+
 ### Python Environment Setup
 ```bash
 # Create and activate virtual environment

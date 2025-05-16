@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-334",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:14.393978",
+  "our_team": {
+    "p1: Clodsire": {
+      "species": "clodsire",
+      "types": [
+        "POISON (pokemon type) object",
+        "GROUND (pokemon type) object"
+      ],
+      "level": 81,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "recover": {
+          "id": "recover",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

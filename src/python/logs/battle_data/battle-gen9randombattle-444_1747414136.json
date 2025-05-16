@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-444",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:56.769222",
+  "our_team": {
+    "p1: Dudunsparce": {
+      "species": "dudunsparce",
+      "types": [
+        "NORMAL (pokemon type) object"
+      ],
+      "level": 83,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "glare": {
+          "id": "glare",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

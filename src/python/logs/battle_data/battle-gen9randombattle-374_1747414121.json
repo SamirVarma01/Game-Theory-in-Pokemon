@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-374",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:41.700479",
+  "our_team": {
+    "p1: Walking Wake": {
+      "species": "walkingwake",
+      "types": [
+        "WATER (pokemon type) object",
+        "DRAGON (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "hydropump": {
+          "id": "hydropump",
+          "type": "WATER (pokemon type) object",
+          "base_power": 110,
+          "category": 

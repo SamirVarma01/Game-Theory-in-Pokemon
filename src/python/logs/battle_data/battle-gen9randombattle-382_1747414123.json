@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-382",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:43.595645",
+  "our_team": {
+    "p1: Dewgong": {
+      "species": "dewgong",
+      "types": [
+        "WATER (pokemon type) object",
+        "ICE (pokemon type) object"
+      ],
+      "level": 94,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "tripleaxel": {
+          "id": "tripleaxel",
+          "type": "ICE (pokemon type) object",
+          "base_power": 20,
+          "category": 

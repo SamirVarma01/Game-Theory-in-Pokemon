@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-362",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:39.789846",
+  "our_team": {
+    "p1: Mimikyu": {
+      "species": "mimikyu",
+      "types": [
+        "GHOST (pokemon type) object",
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "shadowsneak": {
+          "id": "shadowsneak",
+          "type": "GHOST (pokemon type) object",
+          "base_power": 40,
+          "category": 

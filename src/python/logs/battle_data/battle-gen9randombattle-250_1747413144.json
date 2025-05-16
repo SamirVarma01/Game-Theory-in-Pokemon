@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-250",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:23.838713",
+  "our_team": {
+    "p1: Polteageist": {
+      "species": "polteageist",
+      "types": [
+        "GHOST (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "shellsmash": {
+          "id": "shellsmash",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-306",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:09.059525",
+  "our_team": {
+    "p1: Araquanid": {
+      "species": "araquanid",
+      "types": [
+        "WATER (pokemon type) object",
+        "BUG (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "hydropump": {
+          "id": "hydropump",
+          "type": "WATER (pokemon type) object",
+          "base_power": 110,
+          "category": 

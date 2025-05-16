@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-303",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:08.509065",
+  "our_team": {
+    "p1: Mightyena": {
+      "species": "mightyena",
+      "types": [
+        "DARK (pokemon type) object"
+      ],
+      "level": 95,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "throatchop": {
+          "id": "throatchop",
+          "type": "DARK (pokemon type) object",
+          "base_power": 80,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-354",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:19.901928",
+  "our_team": {
+    "p1: Tyranitar": {
+      "species": "tyranitar",
+      "types": [
+        "ROCK (pokemon type) object",
+        "DARK (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stoneedge": {
+          "id": "stoneedge",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 100,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-172",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:08.439270",
+  "our_team": {
+    "p1: Scovillain": {
+      "species": "scovillain",
+      "types": [
+        "GRASS (pokemon type) object",
+        "FIRE (pokemon type) object"
+      ],
+      "level": 91,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "flamethrower": {
+          "id": "flamethrower",
+          "type": "FIRE (pokemon type) object",
+          "base_power": 90,
+          "category": 

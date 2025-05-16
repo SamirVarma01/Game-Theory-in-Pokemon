@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-433",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:53.726975",
+  "our_team": {
+    "p1: Rhydon": {
+      "species": "rhydon",
+      "types": [
+        "GROUND (pokemon type) object",
+        "ROCK (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stealthrock": {
+          "id": "stealthrock",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 0,
+          "category": 

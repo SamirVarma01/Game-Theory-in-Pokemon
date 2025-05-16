@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-284",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:05.736929",
+  "our_team": {
+    "p1: Lokix": {
+      "species": "lokix",
+      "types": [
+        "BUG (pokemon type) object",
+        "DARK (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "suckerpunch": {
+          "id": "suckerpunch",
+          "type": "DARK (pokemon type) object",
+          "base_power": 70,
+          "category": 

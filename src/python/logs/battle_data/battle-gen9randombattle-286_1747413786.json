@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-286",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:06.001673",
+  "our_team": {
+    "p1: Ninetales": {
+      "species": "ninetales",
+      "types": [
+        "FIRE (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "fireblast": {
+          "id": "fireblast",
+          "type": "FIRE (pokemon type) object",
+          "base_power": 110,
+          "category": 

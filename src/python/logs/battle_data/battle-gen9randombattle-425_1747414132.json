@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-425",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:52.425232",
+  "our_team": {
+    "p1: Misdreavus": {
+      "species": "misdreavus",
+      "types": [
+        "GHOST (pokemon type) object"
+      ],
+      "level": 90,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "shadowball": {
+          "id": "shadowball",
+          "type": "GHOST (pokemon type) object",
+          "base_power": 80,
+          "category": 

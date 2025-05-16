@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-197",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:13.485296",
+  "our_team": {
+    "p1: Shiftry": {
+      "species": "shiftry",
+      "types": [
+        "GRASS (pokemon type) object",
+        "DARK (pokemon type) object"
+      ],
+      "level": 89,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "leafstorm": {
+          "id": "leafstorm",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 130,
+          "category": 

@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-448",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:57.402029",
+  "our_team": {
+    "p1: Gurdurr": {
+      "species": "gurdurr",
+      "types": [
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "drainpunch": {
+          "id": "drainpunch",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 75,
+          "category": 

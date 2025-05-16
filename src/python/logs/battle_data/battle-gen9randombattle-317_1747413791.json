@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-317",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:11.409372",
+  "our_team": {
+    "p1: Breloom": {
+      "species": "breloom",
+      "types": [
+        "GRASS (pokemon type) object",
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "spore": {
+          "id": "spore",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 0,
+          "category": 

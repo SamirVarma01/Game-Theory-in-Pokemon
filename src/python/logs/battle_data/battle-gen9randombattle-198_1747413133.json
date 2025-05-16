@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-198",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:13.629459",
+  "our_team": {
+    "p1: Dudunsparce": {
+      "species": "dudunsparcethreesegment",
+      "types": [
+        "NORMAL (pokemon type) object"
+      ],
+      "level": 83,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "boomburst": {
+          "id": "boomburst",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 140,
+          "category": 

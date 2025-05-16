@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-195",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:12.677820",
+  "our_team": {
+    "p1: Donphan": {
+      "species": "donphan",
+      "types": [
+        "GROUND (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "earthquake": {
+          "id": "earthquake",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 100,
+          "category": 

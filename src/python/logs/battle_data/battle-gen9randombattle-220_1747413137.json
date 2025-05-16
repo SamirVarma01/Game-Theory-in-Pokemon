@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-220",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:17.388716",
+  "our_team": {
+    "p1: Volcanion": {
+      "species": "volcanion",
+      "types": [
+        "FIRE (pokemon type) object",
+        "WATER (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "earthpower": {
+          "id": "earthpower",
+          "type": "GROUND (pokemon type) object",
+          "base_power": 90,
+          "category": 

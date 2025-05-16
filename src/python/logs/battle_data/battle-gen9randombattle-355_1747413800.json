@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-355",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:20.059261",
+  "our_team": {
+    "p1: Eiscue": {
+      "species": "eiscue",
+      "types": [
+        "ICE (pokemon type) object"
+      ],
+      "level": 88,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "terablast": {
+          "id": "terablast",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 80,
+          "category": 

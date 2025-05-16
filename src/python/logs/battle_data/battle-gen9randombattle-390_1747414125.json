@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-390",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:44.838837",
+  "our_team": {
+    "p1: Honchkrow": {
+      "species": "honchkrow",
+      "types": [
+        "DARK (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 86,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "lashout": {
+          "id": "lashout",
+          "type": "DARK (pokemon type) object",
+          "base_power": 75,
+          "category": 

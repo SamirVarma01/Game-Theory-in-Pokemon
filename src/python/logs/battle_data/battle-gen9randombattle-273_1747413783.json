@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-273",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:03.905672",
+  "our_team": {
+    "p1: Oranguru": {
+      "species": "oranguru",
+      "types": [
+        "NORMAL (pokemon type) object",
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 92,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "thunderbolt": {
+          "id": "thunderbolt",
+          "type": "ELECTRIC (pokemon type) object",
+          "base_power": 90,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-156",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:28:17.848479",
+  "our_team": {
+    "p1: Iron Boulder": {
+      "species": "ironboulder",
+      "types": [
+        "ROCK (pokemon type) object",
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 77,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "mightycleave": {
+          "id": "mightycleave",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 95,
+          "category": 

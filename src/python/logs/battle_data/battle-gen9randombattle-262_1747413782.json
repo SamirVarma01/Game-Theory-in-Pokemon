@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-262",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:01.996180",
+  "our_team": {
+    "p1: Snorlax": {
+      "species": "snorlax",
+      "types": [
+        "NORMAL (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "bodyslam": {
+          "id": "bodyslam",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 85,
+          "category": 

@@ -1,13 +1,13 @@
-import socket
+import requests
 import json
 
 class DashboardConnector:
-    def __init__(self, host="localhost", port=8888):
+    def __init__(self, host="localhost", port=5000):
         self.host = host
         self.port = port
+        self.base_url = f"http://{host}:{port}"
     
     def send_battle_state(self, battle, payoff_matrix, move_probabilities):
-        # Prepare data for the dashboard
         battle_state = {
             "active_pokemon": {
                 "self": self._extract_pokemon_data(battle.active_pokemon),
@@ -44,21 +44,16 @@ class DashboardConnector:
     
     def _send_to_dashboard(self, data):
         try:
-            # Connect to the C# dashboard
-            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            sock.settimeout(1)  # Set a timeout to avoid hanging
-            sock.connect((self.host, self.port))
-            
-            # Send JSON data
-            json_data = json.dumps(data)
-            sock.sendall(json_data.encode())
-            
-            sock.close()
-        except ConnectionRefusedError:
-            # Dashboard isn't running, just log once
+            response = requests.post(
+                f"{self.base_url}/battle-state",
+                json=data,
+                timeout=1
+            )
+            if response.status_code != 200:
+                print(f"Error sending data to dashboard: {response.status_code}")
+        except requests.exceptions.RequestException as e:
             if not hasattr(self, '_logged_connection_error'):
                 print("Dashboard not running - continuing without visualization")
                 self._logged_connection_error = True
         except Exception as e:
             print(f"Error sending data to dashboard: {e}")
-            # Continue without dashboard if connection fails

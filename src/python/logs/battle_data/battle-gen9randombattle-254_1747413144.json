@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-254",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:24.684039",
+  "our_team": {
+    "p1: Dragapult": {
+      "species": "dragapult",
+      "types": [
+        "DRAGON (pokemon type) object",
+        "GHOST (pokemon type) object"
+      ],
+      "level": 77,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "hex": {
+          "id": "hex",
+          "type": "GHOST (pokemon type) object",
+          "base_power": 65,
+          "category": 

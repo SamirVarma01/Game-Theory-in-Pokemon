@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-244",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:22.427704",
+  "our_team": {
+    "p1: Lapras": {
+      "species": "lapras",
+      "types": [
+        "WATER (pokemon type) object",
+        "ICE (pokemon type) object"
+      ],
+      "level": 87,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "icebeam": {
+          "id": "icebeam",
+          "type": "ICE (pokemon type) object",
+          "base_power": 90,
+          "category": 

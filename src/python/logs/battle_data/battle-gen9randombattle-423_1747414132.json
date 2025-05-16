@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-423",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:52.165239",
+  "our_team": {
+    "p1: Feraligatr": {
+      "species": "feraligatr",
+      "types": [
+        "WATER (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "icepunch": {
+          "id": "icepunch",
+          "type": "ICE (pokemon type) object",
+          "base_power": 75,
+          "category": 

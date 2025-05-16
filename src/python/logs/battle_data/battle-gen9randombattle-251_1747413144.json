@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-251",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:24.304334",
+  "our_team": {
+    "p1: Rabsca": {
+      "species": "rabsca",
+      "types": [
+        "BUG (pokemon type) object",
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 91,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "revivalblessing": {
+          "id": "revivalblessing",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

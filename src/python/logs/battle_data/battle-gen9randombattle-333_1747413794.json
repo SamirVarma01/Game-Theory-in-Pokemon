@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-333",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:14.218251",
+  "our_team": {
+    "p1: Vikavolt": {
+      "species": "vikavolt",
+      "types": [
+        "BUG (pokemon type) object",
+        "ELECTRIC (pokemon type) object"
+      ],
+      "level": 83,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "bugbuzz": {
+          "id": "bugbuzz",
+          "type": "BUG (pokemon type) object",
+          "base_power": 90,
+          "category": 

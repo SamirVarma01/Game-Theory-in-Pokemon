@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-314",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:10.740384",
+  "our_team": {
+    "p1: Grimmsnarl": {
+      "species": "grimmsnarl",
+      "types": [
+        "DARK (pokemon type) object",
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 83,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "thunderwave": {
+          "id": "thunderwave",
+          "type": "ELECTRIC (pokemon type) object",
+          "base_power": 0,
+          "category": 

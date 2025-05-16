@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-210",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:15.520157",
+  "our_team": {
+    "p1: Gardevoir": {
+      "species": "gardevoir",
+      "types": [
+        "PSYCHIC (pokemon type) object",
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 83,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "healingwish": {
+          "id": "healingwish",
+          "type": "PSYCHIC (pokemon type) object",
+          "base_power": 0,
+          "category": 

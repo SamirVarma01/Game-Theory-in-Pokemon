@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-328",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:13.257547",
+  "our_team": {
+    "p1: Cramorant": {
+      "species": "cramorant",
+      "types": [
+        "FLYING (pokemon type) object",
+        "WATER (pokemon type) object"
+      ],
+      "level": 86,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "roost": {
+          "id": "roost",
+          "type": "FLYING (pokemon type) object",
+          "base_power": 0,
+          "category": 

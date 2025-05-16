@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-307",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:09.243608",
+  "our_team": {
+    "p1: Heatran": {
+      "species": "heatran",
+      "types": [
+        "FIRE (pokemon type) object",
+        "STEEL (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stealthrock": {
+          "id": "stealthrock",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 0,
+          "category": 

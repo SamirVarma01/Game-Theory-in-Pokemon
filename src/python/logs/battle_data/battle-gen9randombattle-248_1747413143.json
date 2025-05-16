@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-248",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:23.203465",
+  "our_team": {
+    "p1: Houndstone": {
+      "species": "houndstone",
+      "types": [
+        "GHOST (pokemon type) object"
+      ],
+      "level": 86,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "sleeptalk": {
+          "id": "sleeptalk",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

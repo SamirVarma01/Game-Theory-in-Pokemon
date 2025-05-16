@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-170",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:08.064388",
+  "our_team": {
+    "p1: Quagsire": {
+      "species": "quagsire",
+      "types": [
+        "WATER (pokemon type) object",
+        "GROUND (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "recover": {
+          "id": "recover",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

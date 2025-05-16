@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-158",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:30:46.579950",
+  "our_team": {
+    "p1: Heatran": {
+      "species": "heatran",
+      "types": [
+        "FIRE (pokemon type) object",
+        "STEEL (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "lavaplume": {
+          "id": "lavaplume",
+          "type": "FIRE (pokemon type) object",
+          "base_power": 80,
+          "category": 

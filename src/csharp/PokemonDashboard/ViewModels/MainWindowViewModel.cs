@@ -10,13 +10,14 @@ using System.Threading;
 using System.Text.Json;
 using System.IO;
 using System.Text.Json.Serialization;
+using PokemonDashboard.Models;
 
 namespace PokemonDashboard.ViewModels;
 
 public partial class MainWindowViewModel : ObservableObject
 {
     [ObservableProperty]
-    private string _battleLog;
+    private string _battleLog = string.Empty;
 
     [ObservableProperty]
     private int _wins;
@@ -27,17 +28,20 @@ public partial class MainWindowViewModel : ObservableObject
     [ObservableProperty]
     private double _winRate;
 
-    private HttpListener _listener;
-    private CancellationTokenSource _cts;
+    [ObservableProperty]
+    private string _currentBattleState = string.Empty;
+
+    private HttpListener? _listener;
+    private CancellationTokenSource? _cts;
 
     public MainWindowViewModel()
     {
         BattleLog = "Welcome to Pokemon Battle Dashboard!\nWaiting for battles to begin...";
+        CurrentBattleState = "No active battle";
         Wins = 0;
         Losses = 0;
         WinRate = 0;
         
-        // Start the HTTP server
         StartHttpServer();
     }
 
@@ -73,30 +77,22 @@ public partial class MainWindowViewModel : ObservableObject
 
                                     try
                                     {
-                                        var update = JsonSerializer.Deserialize<BattleUpdate>(content);
-                                        
-                                        // Update UI on the main thread
-                                        await Avalonia.Threading.Dispatcher.UIThread.InvokeAsync(() =>
+                                        if (request.Url.LocalPath == "/battle-state")
                                         {
-                                            if (!string.IsNullOrEmpty(update.Message))
+                                            var battleState = JsonSerializer.Deserialize<BattleState>(content);
+                                            if (battleState != null)
                                             {
-                                                AddBattleLogEntry(update.Message);
+                                                await UpdateBattleState(battleState);
                                             }
-                                            
-                                            if (update.IsWin.HasValue)
+                                        }
+                                        else
+                                        {
+                                            var update = JsonSerializer.Deserialize<BattleUpdate>(content);
+                                            if (update != null)
                                             {
-                                                if (update.IsWin.Value)
-                                                {
-                                                    Wins++;
-                                                    AddBattleLogEntry("Win recorded!");
-                                                }
-                                                else
-                                                {
-                                                    Losses++;
-                                                    AddBattleLogEntry("Loss recorded!");
-                                                }
+                                                await UpdateBattleResult(update);
                                             }
-                                        });
+                                        }
                                     }
                                     catch (JsonException ex)
                                     {
@@ -108,7 +104,7 @@ public partial class MainWindowViewModel : ObservableObject
                             }
                             else
                             {
-                                response.StatusCode = 405; // Method Not Allowed
+                                response.StatusCode = 405;
                                 AddBattleLogEntry($"Invalid request method: {request.HttpMethod}");
                             }
 
@@ -136,6 +132,65 @@ public partial class MainWindowViewModel : ObservableObject
         {
             AddBattleLogEntry($"Failed to start server: {ex.Message}");
         }
+    }
+
+    private async Task UpdateBattleState(BattleState battleState)
+    {
+        await Avalonia.Threading.Dispatcher.UIThread.InvokeAsync(() =>
+        {
+            var stateText = new StringBuilder();
+            stateText.AppendLine($"Turn: {battleState.Turn}");
+            stateText.AppendLine($"Weather: {battleState.Weather ?? "None"}");
+            
+            if (battleState.ActivePokemon?.Self != null)
+            {
+                var pokemon = battleState.ActivePokemon.Self;
+                stateText.AppendLine($"\nOur Pokémon: {pokemon.Species ?? "Unknown"}");
+                stateText.AppendLine($"HP: {pokemon.Hp * 100:F0}%");
+                if (pokemon.Types != null)
+                {
+                    stateText.AppendLine($"Types: {string.Join(", ", pokemon.Types)}");
+                }
+            }
+            
+            if (battleState.ActivePokemon?.Opponent != null)
+            {
+                var pokemon = battleState.ActivePokemon.Opponent;
+                stateText.AppendLine($"\nOpponent's Pokémon: {pokemon.Species ?? "Unknown"}");
+                stateText.AppendLine($"HP: {pokemon.Hp * 100:F0}%");
+                if (pokemon.Types != null)
+                {
+                    stateText.AppendLine($"Types: {string.Join(", ", pokemon.Types)}");
+                }
+            }
+            
+            CurrentBattleState = stateText.ToString();
+        });
+    }
+
+    private async Task UpdateBattleResult(BattleUpdate update)
+    {
+        await Avalonia.Threading.Dispatcher.UIThread.InvokeAsync(() =>
+        {
+            if (!string.IsNullOrEmpty(update.Message))
+            {
+                AddBattleLogEntry(update.Message);
+            }
+            
+            if (update.IsWin.HasValue)
+            {
+                if (update.IsWin.Value)
+                {
+                    Wins++;
+                    AddBattleLogEntry("Win recorded!");
+                }
+                else
+                {
+                    Losses++;
+                    AddBattleLogEntry("Loss recorded!");
+                }
+            }
+        });
     }
 
     partial void OnWinsChanged(int value)
@@ -170,7 +225,7 @@ public partial class MainWindowViewModel : ObservableObject
 
 public class BattleUpdate
 {
-    public string Message { get; set; }
+    public string? Message { get; set; }
     [JsonPropertyName("isWin")]
     public bool? IsWin { get; set; }
 }

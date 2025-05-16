@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-227",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:18.766763",
+  "our_team": {
+    "p1: Articuno": {
+      "species": "articunogalar",
+      "types": [
+        "PSYCHIC (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "freezingglare": {
+          "id": "freezingglare",
+          "type": "PSYCHIC (pokemon type) object",
+          "base_power": 90,
+          "category": 

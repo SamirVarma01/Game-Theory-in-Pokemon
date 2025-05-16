@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-256",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:25.121574",
+  "our_team": {
+    "p1: Plusle": {
+      "species": "plusle",
+      "types": [
+        "ELECTRIC (pokemon type) object"
+      ],
+      "level": 95,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "grassknot": {
+          "id": "grassknot",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 0,
+          "category": 

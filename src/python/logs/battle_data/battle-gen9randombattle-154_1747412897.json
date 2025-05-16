@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-154",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:28:17.456406",
+  "our_team": {
+    "p1: Duraludon": {
+      "species": "duraludon",
+      "types": [
+        "STEEL (pokemon type) object",
+        "DRAGON (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "dracometeor": {
+          "id": "dracometeor",
+          "type": "DRAGON (pokemon type) object",
+          "base_power": 130,
+          "category": 

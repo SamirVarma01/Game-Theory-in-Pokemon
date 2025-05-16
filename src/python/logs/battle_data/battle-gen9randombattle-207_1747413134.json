@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-207",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:14.870272",
+  "our_team": {
+    "p1: Scizor": {
+      "species": "scizor",
+      "types": [
+        "BUG (pokemon type) object",
+        "STEEL (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "knockoff": {
+          "id": "knockoff",
+          "type": "DARK (pokemon type) object",
+          "base_power": 65,
+          "category": 

@@ -202,3 +202,4 @@
 /Applications/VSCode/Projects/MLProjs/regibot/registeel/src/csharp/PokemonDashboard/obj/Debug/net9.0/PokemonD.915AB07D.Up2Date
 /Applications/VSCode/Projects/MLProjs/regibot/registeel/src/csharp/PokemonDashboard/obj/Debug/net9.0/PokemonDashboard.genruntimeconfig.cache
 /Applications/VSCode/Projects/MLProjs/regibot/registeel/src/csharp/PokemonDashboard/obj/Debug/net9.0/ref/PokemonDashboard.dll
+/Applications/VSCode/Projects/MLProjs/regibot/registeel/src/csharp/PokemonDashboard/obj/Debug/net9.0/PokemonDashboard.sourcelink.json

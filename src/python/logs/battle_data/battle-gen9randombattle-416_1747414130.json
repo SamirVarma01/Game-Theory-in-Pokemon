@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-416",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:50.293341",
+  "our_team": {
+    "p1: Iron Thorns": {
+      "species": "ironthorns",
+      "types": [
+        "ROCK (pokemon type) object",
+        "ELECTRIC (pokemon type) object"
+      ],
+      "level": 83,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "wildcharge": {
+          "id": "wildcharge",
+          "type": "ELECTRIC (pokemon type) object",
+          "base_power": 90,
+          "category": 

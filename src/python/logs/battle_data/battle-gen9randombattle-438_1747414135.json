@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-438",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:54.823732",
+  "our_team": {
+    "p1: Comfey": {
+      "species": "comfey",
+      "types": [
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "drainingkiss": {
+          "id": "drainingkiss",
+          "type": "FAIRY (pokemon type) object",
+          "base_power": 50,
+          "category": 

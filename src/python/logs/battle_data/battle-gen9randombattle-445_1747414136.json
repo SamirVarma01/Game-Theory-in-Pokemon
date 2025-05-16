@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-445",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:56.916681",
+  "our_team": {
+    "p1: Toxicroak": {
+      "species": "toxicroak",
+      "types": [
+        "POISON (pokemon type) object",
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "closecombat": {
+          "id": "closecombat",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 120,
+          "category": 

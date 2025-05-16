@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-211",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:15.698160",
+  "our_team": {
+    "p1: Rillaboom": {
+      "species": "rillaboom",
+      "types": [
+        "GRASS (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "woodhammer": {
+          "id": "woodhammer",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 120,
+          "category": 

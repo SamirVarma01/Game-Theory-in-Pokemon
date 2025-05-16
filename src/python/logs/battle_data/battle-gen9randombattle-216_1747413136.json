@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-216",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:16.503713",
+  "our_team": {
+    "p1: Glalie": {
+      "species": "glalie",
+      "types": [
+        "ICE (pokemon type) object"
+      ],
+      "level": 96,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "disable": {
+          "id": "disable",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

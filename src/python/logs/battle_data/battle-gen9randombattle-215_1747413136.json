@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-215",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:16.434820",
+  "our_team": {
+    "p1: Charizard": {
+      "species": "charizard",
+      "types": [
+        "FIRE (pokemon type) object",
+        "FLYING (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "swordsdance": {
+          "id": "swordsdance",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-241",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:21.806274",
+  "our_team": {
+    "p1: Munkidori": {
+      "species": "munkidori",
+      "types": [
+        "POISON (pokemon type) object",
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 79,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "focusblast": {
+          "id": "focusblast",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 120,
+          "category": 

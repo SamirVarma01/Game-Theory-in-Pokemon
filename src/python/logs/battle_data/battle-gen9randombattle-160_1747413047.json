@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-160",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:30:46.958720",
+  "our_team": {
+    "p1: Perrserker": {
+      "species": "perrserker",
+      "types": [
+        "STEEL (pokemon type) object"
+      ],
+      "level": 89,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stealthrock": {
+          "id": "stealthrock",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 0,
+          "category": 

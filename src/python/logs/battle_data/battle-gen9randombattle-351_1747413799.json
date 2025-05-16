@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-351",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:19.057690",
+  "our_team": {
+    "p1: Raikou": {
+      "species": "raikou",
+      "types": [
+        "ELECTRIC (pokemon type) object"
+      ],
+      "level": 81,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "substitute": {
+          "id": "substitute",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 0,
+          "category": 

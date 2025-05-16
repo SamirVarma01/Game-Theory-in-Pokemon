@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-427",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:52.760365",
+  "our_team": {
+    "p1: Samurott": {
+      "species": "samurott",
+      "types": [
+        "WATER (pokemon type) object"
+      ],
+      "level": 88,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "liquidation": {
+          "id": "liquidation",
+          "type": "WATER (pokemon type) object",
+          "base_power": 85,
+          "category": 

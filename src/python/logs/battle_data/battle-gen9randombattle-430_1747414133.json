@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-430",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:53.236546",
+  "our_team": {
+    "p1: Hariyama": {
+      "species": "hariyama",
+      "types": [
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 87,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "knockoff": {
+          "id": "knockoff",
+          "type": "DARK (pokemon type) object",
+          "base_power": 65,
+          "category": 

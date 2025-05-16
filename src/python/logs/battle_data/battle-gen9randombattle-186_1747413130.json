@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-186",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:10.838897",
+  "our_team": {
+    "p1: Decidueye": {
+      "species": "decidueye",
+      "types": [
+        "GRASS (pokemon type) object",
+        "GHOST (pokemon type) object"
+      ],
+      "level": 88,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "leafstorm": {
+          "id": "leafstorm",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 130,
+          "category": 

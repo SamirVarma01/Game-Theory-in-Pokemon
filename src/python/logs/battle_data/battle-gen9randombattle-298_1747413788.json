@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-298",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:07.865599",
+  "our_team": {
+    "p1: Swalot": {
+      "species": "swalot",
+      "types": [
+        "POISON (pokemon type) object"
+      ],
+      "level": 90,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "knockoff": {
+          "id": "knockoff",
+          "type": "DARK (pokemon type) object",
+          "base_power": 65,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-422",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:51.986187",
+  "our_team": {
+    "p1: Roaring Moon": {
+      "species": "roaringmoon",
+      "types": [
+        "DRAGON (pokemon type) object",
+        "DARK (pokemon type) object"
+      ],
+      "level": 72,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "ironhead": {
+          "id": "ironhead",
+          "type": "STEEL (pokemon type) object",
+          "base_power": 80,
+          "category": 

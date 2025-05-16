@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-352",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:19.317091",
+  "our_team": {
+    "p1: Deoxys": {
+      "species": "deoxysspeed",
+      "types": [
+        "PSYCHIC (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "psychoboost": {
+          "id": "psychoboost",
+          "type": "PSYCHIC (pokemon type) object",
+          "base_power": 140,
+          "category": 

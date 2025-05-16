@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-345",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:17.639699",
+  "our_team": {
+    "p1: Houndoom": {
+      "species": "houndoom",
+      "types": [
+        "DARK (pokemon type) object",
+        "FIRE (pokemon type) object"
+      ],
+      "level": 87,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "fireblast": {
+          "id": "fireblast",
+          "type": "FIRE (pokemon type) object",
+          "base_power": 110,
+          "category": 

@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-252",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:24.380320",
+  "our_team": {
+    "p1: Hitmonlee": {
+      "species": "hitmonlee",
+      "types": [
+        "FIGHTING (pokemon type) object"
+      ],
+      "level": 85,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "stoneedge": {
+          "id": "stoneedge",
+          "type": "ROCK (pokemon type) object",
+          "base_power": 100,
+          "category": 

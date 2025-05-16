@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-320",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:11.822852",
+  "our_team": {
+    "p1: Furret": {
+      "species": "furret",
+      "types": [
+        "NORMAL (pokemon type) object"
+      ],
+      "level": 94,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "knockoff": {
+          "id": "knockoff",
+          "type": "DARK (pokemon type) object",
+          "base_power": 65,
+          "category": 

@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-326",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:12.985896",
+  "our_team": {
+    "p1: Toxapex": {
+      "species": "toxapex",
+      "types": [
+        "POISON (pokemon type) object",
+        "WATER (pokemon type) object"
+      ],
+      "level": 82,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "toxic": {
+          "id": "toxic",
+          "type": "POISON (pokemon type) object",
+          "base_power": 0,
+          "category": 

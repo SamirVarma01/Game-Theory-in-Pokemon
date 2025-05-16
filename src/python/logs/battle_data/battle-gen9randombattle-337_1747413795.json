@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-337",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:14.968224",
+  "our_team": {
+    "p1: Iron Bundle": {
+      "species": "ironbundle",
+      "types": [
+        "ICE (pokemon type) object",
+        "WATER (pokemon type) object"
+      ],
+      "level": 77,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "icebeam": {
+          "id": "icebeam",
+          "type": "ICE (pokemon type) object",
+          "base_power": 90,
+          "category": 

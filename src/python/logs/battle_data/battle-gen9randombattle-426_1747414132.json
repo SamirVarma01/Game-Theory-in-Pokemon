@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-426",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:48:52.622921",
+  "our_team": {
+    "p1: Whimsicott": {
+      "species": "whimsicott",
+      "types": [
+        "GRASS (pokemon type) object",
+        "FAIRY (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "leechseed": {
+          "id": "leechseed",
+          "type": "GRASS (pokemon type) object",
+          "base_power": 0,
+          "category": 

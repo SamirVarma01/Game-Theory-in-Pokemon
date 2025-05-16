@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-257",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:25.295590",
+  "our_team": {
+    "p1: Regigigas": {
+      "species": "regigigas",
+      "types": [
+        "NORMAL (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "rest": {
+          "id": "rest",
+          "type": "PSYCHIC (pokemon type) object",
+          "base_power": 0,
+          "category": 

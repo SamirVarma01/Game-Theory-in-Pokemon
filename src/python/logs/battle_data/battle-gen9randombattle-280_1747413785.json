@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-280",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:43:05.290295",
+  "our_team": {
+    "p1: Reshiram": {
+      "species": "reshiram",
+      "types": [
+        "DRAGON (pokemon type) object",
+        "FIRE (pokemon type) object"
+      ],
+      "level": 76,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "outrage": {
+          "id": "outrage",
+          "type": "DRAGON (pokemon type) object",
+          "base_power": 120,
+          "category": 

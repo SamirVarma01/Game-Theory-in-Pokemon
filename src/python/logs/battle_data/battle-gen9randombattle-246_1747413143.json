@@ -1,0 +1,19 @@
+{
+  "battle_id": "battle-gen9randombattle-246",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:22.964834",
+  "our_team": {
+    "p1: Jolteon": {
+      "species": "jolteon",
+      "types": [
+        "ELECTRIC (pokemon type) object"
+      ],
+      "level": 84,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "terablast": {
+          "id": "terablast",
+          "type": "NORMAL (pokemon type) object",
+          "base_power": 80,
+          "category": 

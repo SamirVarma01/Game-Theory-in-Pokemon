@@ -1,0 +1,20 @@
+{
+  "battle_id": "battle-gen9randombattle-242",
+  "format": "gen9randombattle",
+  "started_at": "2025-05-16T12:32:21.906435",
+  "our_team": {
+    "p1: Corviknight": {
+      "species": "corviknight",
+      "types": [
+        "FLYING (pokemon type) object",
+        "STEEL (pokemon type) object"
+      ],
+      "level": 80,
+      "hp": 1.0,
+      "status": null,
+      "moves": {
+        "bodypress": {
+          "id": "bodypress",
+          "type": "FIGHTING (pokemon type) object",
+          "base_power": 80,
+          "category": 
